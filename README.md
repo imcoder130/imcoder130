@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Dhanesha Patil</h1>
+<h3 align="center">A passionate devloper from India</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanesha_patil18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhanesha-patil-8a9b40281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanesha2005@gmail.com) 
