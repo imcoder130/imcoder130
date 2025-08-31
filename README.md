@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanesha Patil</h1>
 <h3 align="center">A passionate devloper from India</h3>
 
+<p align="right"> <img src="https://[komarev.com/ghpvc/?username=imcoder130&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkrsakshi%2Fkrsakshi&psig=AOvVaw34-HULJY7JAKtFxbT99L-z&ust=1756717149973000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjgt8PXtI8DFQAAAAAdAAAAABA8)" alt="coding" /> </p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanesha_patil18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhanesha-patil-8a9b40281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanesha2005@gmail.com) 
 
